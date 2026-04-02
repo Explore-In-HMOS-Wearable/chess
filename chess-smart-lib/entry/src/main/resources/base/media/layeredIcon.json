@@ -1,0 +1,6 @@
+{
+  "layeredIcon": {
+    "foreground": "$media:ic_launcher_foreground",
+    "background": "$media:ic_launcher_background"
+  }
+}

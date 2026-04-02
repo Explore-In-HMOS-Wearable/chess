@@ -1,0 +1,26 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "nativeLib": {
+      "debugSymbol": {
+        "strip": false
+      }
+    },
+    "sourceOption": {
+      "workers": [
+        "./src/main/ets/workers/TuanjieMainWorker.ets"
+      ]
+    },
+    "arkOptions": {
+      "runtimeOnly": {
+        "packages": [],
+        "sources": []
+      }
+    }
+  },
+  "targets": [
+    {
+      "name": "default"
+    }
+  ]
+}

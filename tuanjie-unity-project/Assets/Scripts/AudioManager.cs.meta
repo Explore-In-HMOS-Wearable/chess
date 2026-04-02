@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: XntNt3muB3/AJKy/dkpI1gY9OlL4Le0AU0i/ui3GMO8NQRmEEAciOVA=
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - moveSound: {fileID: 8300000, guid: 69e2cb1a912952941a6074a3d0f71e0b, type: 3}
+  - captureSound: {instanceID: 0}
+  - checkSound: {instanceID: 0}
+  - castleSound: {instanceID: 0}
+  - promoteSound: {instanceID: 0}
+  - winSound: {instanceID: 0}
+  - loseSound: {instanceID: 0}
+  - drawSound: {instanceID: 0}
+  - selectSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

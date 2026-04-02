@@ -1,0 +1,45 @@
+{
+  "module": {
+    "name": "tuanjieLib",
+    "type": "har",
+    "description": "$string:module_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "metadata": [
+      {
+        "name": "ArkTSPartialUpdate",
+        "value": "true"
+      },
+      {
+        "name": "partialUpdateStrictCheck",
+        "value": "warn"
+      }
+    ],
+    "installationFree": false,
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET",
+        "usedScene": {
+          "abilities": [
+            "TuanjiePlayerAbility"
+          ],
+          "when": "always"
+        },
+        "reason": "$string:default_reason"
+      },
+      {
+        "name": "ohos.permission.ACCELEROMETER",
+        "usedScene": {
+          "abilities": [
+            "TuanjiePlayerAbility"
+          ],
+          "when": "always"
+        },
+        "reason": "$string:default_reason"
+      }
+    ]
+  }
+}
